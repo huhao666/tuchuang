@@ -1,4 +1,6 @@
-# autoPicCdn 
+# autoPicCdn
+原github仓库地址 https://github.com/A2Data/autoPicCdn
+
 
 白嫖Github的存储空间,通过jsdelivr全球加速(含有国内节点). 实现图床的目的.
 
