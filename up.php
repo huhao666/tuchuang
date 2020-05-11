@@ -16,7 +16,7 @@ date_default_timezone_set("PRC");
 define("REPO","tuchuang");//必须是下面用户名下的公开仓库
 define("USER","huhao666");//必须是当前GitHub用户名
 define("MAIL","782044678@qq.com");//
-define("TOKEN","0c1cdfebcbbe637edaa550a2da7061f8aeee2925");//https://github.com/settings/tokens 去这个页面生成一个有写权限的token（repo：Full control of private repositories 和write:packages前打勾）
+define("TOKEN","12d6c0a7c582119c9ec2de9a7dee0585f1ca79a0");//https://github.com/settings/tokens 去这个页面生成一个有写权限的token（repo：Full control of private repositories 和write:packages前打勾）
 
 //数据库配置文件
 $database = array(
